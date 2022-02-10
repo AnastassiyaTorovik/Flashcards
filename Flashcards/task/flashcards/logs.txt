@@ -1,0 +1,37 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+poland
+The definition of the card:
+warsawa
+The pair ("poland":"warsawa") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+russia
+The definition of the card:
+mooscow
+The pair ("russia":"mooscow") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+4
+Print the definition of "poland":
+warsawa
+Correct!
+Print the definition of "poland":
+moscow
+Wrong. The right answer is "warsawa".
+Print the definition of "poland":
+mooscow
+Wrong. The right answer is "mooscow", but your definition is correct for "russia".
+Print the definition of "poland":
+warsawa
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+logs.txt

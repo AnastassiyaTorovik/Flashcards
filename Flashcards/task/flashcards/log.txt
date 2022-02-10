@@ -1,0 +1,48 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+me
+The definition of the card:
+nastia
+The pair ("me":"nastia") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+he
+The definition of the card:
+pasha
+The pair ("he":"pasha") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "me":
+nastia
+Correct!
+Print the definition of "he":
+pasha
+Correct!
+Print the definition of "me":
+n
+Wrong. The right answer is "nastia".
+Print the definition of "he":
+p
+Wrong. The right answer is "pasha".
+Print the definition of "he":
+pasha
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are "me", "he".
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+log.txt
